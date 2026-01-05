@@ -1,0 +1,15 @@
+[
+  {
+    "guid": "d9e8fe69-9e5a-4ae9-bfc2-590db8da69e0",
+    "name": "Meilisearch AI Custom",
+    "description": "Custom 70% Semantic Search Build",
+    "versions": [
+      {
+        "version": "2.0.0.0",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://codeload.github.com/PropTopper/jellyfin-plugin-meilisearch/zip/refs/heads/main.zip",
+        "checksum": "YOUR_ZIP_CHECKSUM_HERE"
+      }
+    ]
+  }
+]
