@@ -8,7 +8,7 @@
         "version": "2.0.0.0",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/PropTopper/jellyfin-plugin-meilisearch/archive/refs/tags/test.zip",
-        "checksum": "009f9a5c1cea3eeb6d0bf14df91a89f9"
+        "checksum": "08e1c0755e69be2f9ecc3c52f5890c8e"
       }
     ]
   }
