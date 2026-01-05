@@ -7,7 +7,7 @@
       {
         "version": "2.0.0.0",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://codeload.github.com/PropTopper/jellyfin-plugin-meilisearch/zip/refs/heads/main.zip",
+        "sourceUrl": "https://github.com/PropTopper/jellyfin-plugin-meilisearch/archive/refs/tags/test.zip",
         "checksum": "713d47548d60ec923b08410155e76c623c342cab6a03912a5b4e44f19fce1a4c"
       }
     ]
