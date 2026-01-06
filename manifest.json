@@ -1,8 +1,8 @@
 [
   {
     "guid": "d9e8fe69-9e5a-4ae9-bfc2-590db8da69e1",
-    "name": "Meilisearch AI Custom",
-    "changelog": "hello",
+    "name": "MeilisearchAICustom",
+    
     "imageUrl": "https://raw.githubusercontent.com/meilisearch/meilisearch/refs/heads/main/assets/meilisearch-logo-dark.svg",
     "description": "Custom 70% Semantic Search Build",
     "owner": "PropTopper",
@@ -10,8 +10,9 @@
       {
         "version": "2.0.0.0",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/PropTopper/jellyfin-plugin-meilisearch/releases/download/test/Meilisearch.AI.Custom.zip",
-        "checksum": "00e8c75840d3a0d421bc382635e4bf47"
+        "changelog": "hello",
+        "sourceUrl": "https://github.com/PropTopper/jellyfin-plugin-meilisearch/releases/download/test/MeilisearchAICustom.zip",
+        "checksum": "6f498dd7f7b867a0d723eb3495288c76"
       }
     ]
   }
