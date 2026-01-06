@@ -1,6 +1,6 @@
 ---
 name: "Meilisearch"
-guid: "974395db-b31d-46a2-bc86-ef9aa5ac04dd"
+guid: "d9e8fe69-9e5a-4ae9-bfc2-590db8da69e1"
 version: "0.0.0.0"
 targetAbi: "10.11.0.0"
 framework: "net9.0"

@@ -173,7 +173,7 @@
                 return fields;
             }
 
-            const id = '974395db-b31d-46a2-bc86-ef9aa5ac04dd';
+            const id = 'd9e8fe69-9e5a-4ae9-bfc2-590db8da69e1';
             const statusEl = document.querySelector('#status')
             const btn = document.querySelector('#meilisearch-refresh-status-button')
             const reconnectBtn = document.querySelector('#meilisearch-reconnect-button')
@@ -187,7 +187,7 @@
                 btn.className = clsNameDisabled;
                 reconnectBtn.className = clsNameDisabled;
                 reindexBtn.className = clsNameDisabled;
-                
+
                 statusEl.innerText = 'loading status...';
                 ApiClient.get('/meilisearch/' + endpoint).then(r => r.json()).then(status => {
                     statusEl.innerText = JSON.stringify(status, null, 2);

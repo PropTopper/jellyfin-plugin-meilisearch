@@ -145,8 +145,8 @@ public class MeilisearchMutateFilter(
                     {
                         Filter = $"type = \"{itemType}\" {additionQueryStr}",
                         Limit = limitPerType,
-                        AttributesToSearchOn = Plugin.Instance?.Configuration.AttributesToSearchOn
-                        Hybrid = new Hybrid{
+                        AttributesToSearchOn = Plugin.Instance?.Configuration.AttributesToSearchOn,
+                        Hybrid = new HybridSearch{
                             SemanticRatio = 1.0,
                             Embedder = "default"
                         }
