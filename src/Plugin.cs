@@ -47,7 +47,7 @@ public class Plugin : BasePlugin<Config>, IHasWebPages
 
     private EventHandler<BasePluginConfiguration> ReloadMeilisearch { get; }
 
-    public override string Name => "MeilisearchAICustom";
+    public override string Name => "Meilisearch";
     public override Guid Id => Guid.Parse("d9e8fe69-9e5a-4ae9-bfc2-590db8da69e1");
     public static Plugin? Instance { get; private set; }
 
