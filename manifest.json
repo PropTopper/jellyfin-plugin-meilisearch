@@ -12,7 +12,7 @@
         "targetAbi": "10.11.0.0",
         "changelog": "hello",
         "sourceUrl": "https://github.com/PropTopper/jellyfin-plugin-meilisearch/releases/download/test/Meilisearch.zip",
-        "checksum": "504328d1e6e007716cda61f6ba7e57ef"
+        "checksum": "c22abec2dbcd6ac5db4ef081313fa11b"
       }
     ]
   }
