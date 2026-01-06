@@ -2,7 +2,10 @@
   {
     "guid": "d9e8fe69-9e5a-4ae9-bfc2-590db8da69e1",
     "name": "Meilisearch AI Custom",
+    "changelog": "hello",
+    "imageUrl": "https://raw.githubusercontent.com/meilisearch/meilisearch/refs/heads/main/assets/meilisearch-logo-dark.svg",
     "description": "Custom 70% Semantic Search Build",
+    "owner": "PropTopper",
     "versions": [
       {
         "version": "2.0.0.0",
